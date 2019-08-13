@@ -1,7 +1,8 @@
 {
+  "test" : "Testkk",
   "subtitle" : "Why Alexa?",
-  "description" : "Alexa is Amazon’s cloud-based voice service available on over 100 million devices from Amazon and third-party device manufacturers. With Alexa, you can build natural voice experiences that offer customers a more intuitive way to interact with the technology they use every day. Our collection of tools, APIs, reference solutions, and documentation makes it easy for anyone to build with Alexa.",
-  "anchor" : "Ways to Build with Alexa",
+  "description" : "Alexa is Amazon’s cloud-based voice service available on over 100 million devices from Amazon and third-party device manufacturers. With Alexa, you can build natural voice experiences that offer customers a more intuitive way to interact with the technology they use every day. Our collection of tools, APIs, reference solutions, and documentation makes it easy for anyone to build with Alexa.kkk",
+  "anchor" : "Ways to Build with Alexak",
   "create_Alexa_skills" : "Reach customers through tens of millions of Alexa-enabled devices by creating cloud-based skills to deliver information, entertainment, games, services, and other content. Use the Alexa Skills Kit to build engaging voice-first experiences that customers love.",
   "build_Alexa_devices" : "Build voice-forward products by integrating Alexa into your devices or controlling your devices with Alexa. Use the Alexa Voice Service to create devices with Alexa built-in for a fully integrated experience, add Alexa control to your smart devices, or both. And build fun, Bluetooth-connected accessories called Alexa Gadgets.",
   "explore_business_solutions" : "Use Alexa to better serve your employees and your customers. With Alexa for Business, you can voice-enable your business applications. With Alexa for Hospitality, you can delight guests by making it easy to access your services by voice.",
