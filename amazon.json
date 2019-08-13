@@ -1,5 +1,6 @@
 {
 	
+"test" : "Test",	
 "subtitle" : "Why Alexa?",
 "description" : "Alexa is Amazon’s cloud-based voice service available on over 100 million devices from Amazon and third-party device manufacturers. With Alexa, you can build natural voice experiences that offer customers a more intuitive way to interact with the technology they use every day. Our collection of tools, APIs, reference solutions, and documentation makes it easy for anyone to build with Alexa.",
 "anchor": "Ways to Build with Alexa",
